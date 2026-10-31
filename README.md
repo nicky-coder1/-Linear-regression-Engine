@@ -1,6 +1,6 @@
 # Computational Further Mathematics Suite: High-Performance Linear Regression Engine
 
-## 📊 Project Overview
+ Project Overview
 This repository contains a pure Python implementation of a **Deterministic Predictive Linear Regression Engine**, developed from first principles without relying on third-party machine learning or statistical frameworks (such as NumPy or scikit-learn). 
 
 By bridging advanced concepts from **A-Level Further Mathematics (Core Pure, Statistics, and Decision)** with computer science paradigms, this engine structures raw coordinate matrices to compute optimal linear trajectories and evaluate model precision algorithmically.
