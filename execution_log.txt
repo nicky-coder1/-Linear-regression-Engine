@@ -1,0 +1,3 @@
+Line Equation: y = 76.34x + -16.16
+Accuracy (R-squared): 0.9987
+Prediction for 4.5 hours of study: 327.4%
